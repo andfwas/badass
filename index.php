@@ -1,3 +1,3 @@
-<?php include 'header.php'; ?>
-  <body>
-<?php include 'footer.php'; ?>
+<?php get_header(); ?>
+  <h1>This is a primary header</h1>
+<?php get_footer(); ?>
