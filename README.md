@@ -1,2 +1,2 @@
 # badass
-A WordPress Theme
+A badass WordPress theme
